@@ -25,7 +25,7 @@ since they're a poor design and are gone in YAML 1.2.}
 %global golicenses      LICENSE LICENSE.libyaml
 %global godocs          README.md
 
-Name:           yaml
+Name:           golang-gopkg-yaml-1
 Version:        0
 Release:        0.16%{?dist}
 Summary:        YAML support for the Go language
